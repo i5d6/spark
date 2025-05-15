@@ -76,7 +76,7 @@ require (
 	github.com/decred/dcrd/dcrec/secp256k1/v2 v2.0.0 // indirect
 	github.com/decred/dcrd/lru v1.1.3 // indirect
 	github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f // indirect
-	github.com/ethereum/go-ethereum v1.14.12 // indirect
+	github.com/ethereum/go-ethereum v1.14.13 // indirect
 	github.com/go-errors/errors v1.5.1 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
